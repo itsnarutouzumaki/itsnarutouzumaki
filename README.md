@@ -61,7 +61,7 @@ I'm a Master of Computer Applications student and a passionate Coder from NIT Al
 #### Top Repositories
 
 
-<a href="https://github.com/itsnarutouzumaki/github-readme-stats">
+<a href="https://github.com/itsnarutouzumaki/CampusConnect">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsnarutouzumaki&repo=CampusConnect&theme=buefy" />
 </a>
 <a href="https://github.com/itsnarutouzumaki/marsDoodles">
