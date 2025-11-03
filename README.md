@@ -26,9 +26,9 @@ I'm a Master of Computer Applications student and a passionate Coder from NIT Al
 
 ## 👨‍💻 About Me
 
-- 💼 Python Django Intern at [Assystant Technologies](https://github.com/itsnarutouzumaki)
+- 💼 Ex- React JS Intern at [Assystant Technologies](https://github.com/itsnarutouzumaki)
 
-- 🏫 MCA Student at MNNIT Allahabad (CPI: 8.53) • Ex-BSc [Physics + CS] Graduate
+- 🏫 MCA Student at MNNIT Allahabad (CPI: 8.63) • Ex-BSc [Physics + CS] Graduate
 
 - 🚀 Built **Campus Connect**, a live-class platform with Stripe, JWT, quizzes, and HD streaming
 
@@ -36,7 +36,7 @@ I'm a Master of Computer Applications student and a passionate Coder from NIT Al
 
 - 🎮 Creator of **Mars Doodle** – a real-time multiplayer sketch game with chat & guessing!
 
-- 🔥 2500+ DSA problems solved • Top 40 in multiple national coding contests
+- 🔥 3000+ DSA problems solved • Top 40 in multiple national coding contests
 
 - 🥇 Ranked **36th** in GFG Weekly Contest • Max LeetCode rating: **2115 (Knight)**
 
